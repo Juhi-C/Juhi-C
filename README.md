@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhi-c&label=Profile%20views&color=0e75b6&style=flat" alt="juhi-c" /> </p>
 
-- 🔭 I’m currently working on **DermaGenics- EARLY DETECTION AND TREATMENT RECOMMENDATION FOR MELANOMA**
+- 🔭 I’m studying at **University of Southern California**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently pursuing **Masters of Science in Computer Science**
 
 - 👯 I’m looking to collaborate on **Open Source Platforms**
 
-- 🤝 I’m looking for help with **Summer Internship Opportunities**
+- 🤝 I’m looking for help with **Summer 2024 Internship Opportunities**
 
-- 📫 How to reach me **juhic100@gmail.com**
+- 📫 How to reach me **chhatlan@usc.edu**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RKfBjflHtzsfWUihE67rNjD7gnaITNnr/view?usp=sharing)
 
