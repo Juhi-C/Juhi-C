@@ -7,13 +7,7 @@
 
 - 🌱 I’m currently pursuing **Masters of Science in Computer Science**
 
-- 👯 I’m looking to collaborate on **Open Source Platforms**
-
-- 🤝 I’m looking for help with **Summer 2024 Internship Opportunities**
-
 - 📫 How to reach me **chhatlan@usc.edu**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RKfBjflHtzsfWUihE67rNjD7gnaITNnr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
